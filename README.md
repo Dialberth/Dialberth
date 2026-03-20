@@ -28,16 +28,6 @@ Combino estrategia, tecnología y comunicación para construir marcas, sistemas 
 
 ---
 
-## 📚 Proyectos destacados
-
-### 🐱 Gatito  
-Mi primer repositorio en HTML. Un pequeño proyecto para practicar estructura, estilos y despliegue.
-
-### 🐾 Gaturro  
-Página creada para practicar Git, ramas, commits y manejo de versiones.
-
----
-
 ## 📈 Qué encontrarás en mis repositorios
 
 - Proyectos de aprendizaje mientras avanzo en desarrollo web  
